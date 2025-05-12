@@ -1,3 +1,3 @@
 # Etch-a-Sketch
 
-https://duxxie.github.io/LandingPage/
+https://duxxie.github.io/Etch-a-Sketch/
